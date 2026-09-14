@@ -65,10 +65,10 @@ My background spans software development, server infrastructure, and automotive 
 
 | Project | Description | Technologies |
 | --- | --- | --- |
-| [**business-website**](https://github.com/TheOrient/business-website) | Responsive corporate website with dynamic content, SEO, and structured data | PHP, MySQL, JavaScript |
-| [**Orient-Anticheat**](https://github.com/TheOrient/Orient-Anticheat) | FiveM security system featuring exploit detection, entity control, logging, and administrative tools | Lua, JavaScript, FiveM |
-| [**fivemsv-durumbotu**](https://github.com/TheOrient/fivemsv-durumbotu) | Discord bot for monitoring and managing FiveM servers | Node.js, Discord.js |
-| [**orient-fivemdc-sqlbot**](https://github.com/TheOrient/orient-fivemdc-sqlbot) | Discord-based SQL administration bot built for ESX FiveM servers | Node.js, MySQL, Discord.js |
+| [**business-website**](https://github.com/TheOrient/business-website) | Production-oriented corporate website with database-driven content, responsive layouts, technical SEO, structured data, and performance optimizations | PHP, MySQL, JavaScript |
+| [**Orient-Anticheat**](https://github.com/TheOrient/Orient-Anticheat) | Configurable FiveM security framework combining exploit detection, entity-spam protection, blacklists, detailed logging, and administrative tooling | Lua, JavaScript, FiveM |
+| [**fivemsv-durumbotu**](https://github.com/TheOrient/fivemsv-durumbotu) | Node.js Discord integration that monitors FiveM server availability and provides configurable community and administrative workflows | Node.js, Discord.js |
+| [**orient-fivemdc-sqlbot**](https://github.com/TheOrient/orient-fivemdc-sqlbot) | Role-protected Discord administration tool for SQL-backed player management across legacy ESX-based FiveM environments | Node.js, MySQL, Discord.js |
 
 ## Current Focus
 
