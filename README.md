@@ -9,7 +9,11 @@ I build practical software, backend systems, automation tools, and AI-powered ap
 [![Location](https://img.shields.io/badge/Germany-18181B?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/TheOrient)
 [![GitHub](https://img.shields.io/badge/TheOrient-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheOrient)
 [![Email](https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgogce1907@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=TheOrient&style=for-the-badge&color=18181B)
+
+<br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=TheOrient&label=PROFILE%20VIEWS&color=2F81F7&style=for-the-badge)
+[![GitHub Followers](https://img.shields.io/github/followers/TheOrient?label=FOLLOWERS&style=for-the-badge&color=2F81F7&labelColor=18181B&logo=github)](https://github.com/TheOrient?tab=followers)
 
 </div>
 
