@@ -4,11 +4,12 @@
 
 ### Computer Science Student · Full-Stack Developer · Backend & Automation
 
-I build practical software, scalable backend systems, automation tools, and AI-powered applications.
+I build practical software, backend systems, automation tools, and AI-powered applications.
 
 [![Location](https://img.shields.io/badge/Germany-18181B?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/TheOrient)
-[![Profile](https://img.shields.io/badge/TheOrient-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheOrient)
+[![GitHub](https://img.shields.io/badge/TheOrient-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheOrient)
 [![Email](https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgogce1907@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=TheOrient&style=for-the-badge&color=18181B)
 
 </div>
 
@@ -16,13 +17,17 @@ I build practical software, scalable backend systems, automation tools, and AI-p
 
 ## About Me
 
-I'm a Computer Science student and Full-Stack Developer with experience across software development, backend architecture, server infrastructure, and automotive technology.
+I'm a **Computer Science student and Full-Stack Developer** focused on building practical software, backend systems, automation tools, and AI-powered applications.
 
-- 🔭 Building full-stack platforms, backend services, and automation workflows
-- 🤖 Exploring AI-assisted software and multi-agent development systems
-- 🧩 Interested in microservices, APIs, scalable systems, and developer tooling
-- 🚗 Experienced with automotive electronics, diagnostics, ECU software, and vehicle coding
-- 🌱 Currently strengthening my Go, .NET, TypeScript, and cloud-native development skills
+My background spans software development, server infrastructure, and automotive software, giving me experience across both software engineering and real-world technical systems.
+
+## What I'm Currently Working On
+
+- Full-stack web applications
+- Backend systems and REST APIs
+- AI-assisted software and automation
+- Social media management and automation tools
+- Automotive software and diagnostics
 
 ## Tech Stack
 
@@ -34,8 +39,8 @@ I'm a Computer Science student and Full-Stack Developer with experience across s
 ![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![PHP](https://img.shields.io/badge/PHP-18181B?style=for-the-badge&logo=php&logoColor=777BB4)
 ![Python](https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=3776AB)
-![Go](https://img.shields.io/badge/Go-18181B?style=for-the-badge&logo=go&logoColor=00ADD8)
-![C%23](https://img.shields.io/badge/C%23-18181B?style=for-the-badge&logo=csharp&logoColor=9B4F96)
+![HTML5](https://img.shields.io/badge/HTML5-18181B?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-18181B?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 ### Frontend & Backend
 
@@ -43,7 +48,8 @@ I'm a Computer Science student and Full-Stack Developer with experience across s
 ![Next.js](https://img.shields.io/badge/Next.js-18181B?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
 ![Laravel](https://img.shields.io/badge/Laravel-18181B?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-18181B?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-18181B?style=for-the-badge&logo=codeigniter&logoColor=EF4223)
+![jQuery](https://img.shields.io/badge/jQuery-18181B?style=for-the-badge&logo=jquery&logoColor=0769AD)
 
 ### Data & Infrastructure
 
@@ -57,32 +63,34 @@ I'm a Computer Science student and Full-Stack Developer with experience across s
 
 ## Featured Projects
 
-| Project | What it demonstrates | Core technologies |
+| Project | Description | Technologies |
 | --- | --- | --- |
-| [**microservice-golang**](https://github.com/TheOrient/microservice-golang) | Service-to-service communication, authentication, messaging, logging, and containerized development | Go, REST, gRPC, Docker |
-| [**ECommerceMicroservices**](https://github.com/TheOrient/ECommerceMicroservices) | Modular e-commerce architecture with identity services and API gateways | C#, ASP.NET Core, Microservices |
 | [**business-website**](https://github.com/TheOrient/business-website) | Responsive corporate website with dynamic content, SEO, and structured data | PHP, MySQL, JavaScript |
-| [**Orient-Anticheat**](https://github.com/TheOrient/Orient-Anticheat) | A legacy security project featuring exploit detection, entity control, logging, and admin tooling | Lua, JavaScript, FiveM |
+| [**Orient-Anticheat**](https://github.com/TheOrient/Orient-Anticheat) | FiveM security system featuring exploit detection, entity control, logging, and administrative tools | Lua, JavaScript, FiveM |
+| [**fivemsv-durumbotu**](https://github.com/TheOrient/fivemsv-durumbotu) | Discord bot for monitoring and managing FiveM servers | Node.js, Discord.js |
+| [**orient-fivemdc-sqlbot**](https://github.com/TheOrient/orient-fivemdc-sqlbot) | Discord-based SQL administration bot built for ESX FiveM servers | Node.js, MySQL, Discord.js |
 
 ## Current Focus
 
 ```text
-Backend Architecture  ███████████████████░  APIs & scalable services
-Full-Stack Systems    ██████████████████░░  Product-focused applications
-Automation & AI       █████████████████░░░  Practical intelligent workflows
-Microservices         ████████████████░░░░  Distributed system patterns
+Full-Stack Development  ███████████████████░  Product-focused web applications
+Backend & APIs          ██████████████████░░  Reliable services and integrations
+Automation & AI         █████████████████░░░  Practical intelligent workflows
+Infrastructure          ███████████████░░░░░  Linux, servers, and networking
 ```
 
-## GitHub Activity
+## GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TheOrient&show_icons=true&hide_border=true&bg_color=00000000&title_color=2F81F7&text_color=8B949E&icon_color=2F81F7" alt="Muhammed Ali's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOrient&layout=compact&hide_border=true&bg_color=00000000&title_color=2F81F7&text_color=8B949E" alt="Most used languages" />
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheOrient&theme=github_dark" alt="Muhammed Ali's GitHub contribution statistics" />
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheOrient&theme=github_dark" alt="Muhammed Ali's GitHub statistics" />
+<img width="48%" src="https://streak-stats.demolab.com?user=TheOrient&theme=github-dark-blue&hide_border=true" alt="Muhammed Ali's GitHub contribution streak" />
 
 </div>
 
-> Some repositories are legacy projects created during my early development journey. I keep selected work public to document my progress, while my current focus is modern full-stack development, backend architecture, automation, and AI-assisted software.
+> Some repositories are legacy projects created during my early development journey. I keep selected work public to document my progress, while my current work focuses on modern full-stack development, backend systems, automation, and AI-assisted software.
 
 ---
 
