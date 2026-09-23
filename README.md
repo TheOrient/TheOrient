@@ -4,7 +4,7 @@ Full-stack developer in Bremen, Germany. I build web applications and the infras
 
 I started making websites for gaming communities in 2016. WordPress work led me to PHP, while building FiveM, Unturned and Arma 3 communities taught me about Linux servers, databases, networking, support and automation. I later provided hosting and technical support, built client websites as a freelancer, and developed game server scripts and Discord integrations. My interest in how systems work also led to FiveM anti-cheat projects and defensive security. Since 2025, I have been exploring Python, LLMs and practical AI applications.
 
-In 2021, I started [Ecubulk](https://www.linkedin.com/company/109263958/), applying the same curiosity to automotive software, VAG coding, retrofits and ECU/TCU tuning. That work sits alongside my software development, rather than replacing it.
+From 2021 to October 2025, I ran [Ecubulk](https://www.linkedin.com/company/109263958/), applying the same curiosity to automotive software, VAG coding, retrofits and ECU/TCU tuning. It was a separate venture alongside my software development work.
 
 ## What I work with
 
@@ -26,4 +26,4 @@ Some repositories document work from my early learning years; newer projects wil
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/muhammed-ali-g%C3%B6gce-290a63223/) · [Website](https://muhammedaligogce.com.tr) · [Email](mailto:mgogce1907@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ali-g%C3%B6gce-290a63223/) · [Website](https://muhammedaligogce.com.tr) · [Email](mailto:mgogce1907@gmail.com)
