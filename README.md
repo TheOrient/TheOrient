@@ -17,12 +17,13 @@ From 2021 to October 2025, I ran [Ecubulk](https://www.linkedin.com/company/1092
 
 | Project | What it shows |
 | --- | --- |
+| [InfraLens](https://github.com/TheOrient/infralens) | A reproducible, browser-side ML demo for synthetic server telemetry, with model card and tests |
 | [Laravel real estate CMS](https://github.com/TheOrient/laravel-real-estate-cms) | A multilingual listing site and administration system built with Laravel |
 | [Business website](https://github.com/TheOrient/business-website) | A PHP/MySQL client website with a product catalog and technical SEO |
 | [Orient Anticheat](https://github.com/TheOrient/Orient-Anticheat) | An earlier Lua project for FiveM server administration and exploit detection |
 | [FiveM status bot](https://github.com/TheOrient/fivemsv-durumbotu) | An earlier Node.js/Discord integration for server status and community commands |
 
-Some repositories document work from my early learning years; newer projects will show the direction I am taking now.
+Some repositories document work from my early learning years; InfraLens shows the applied AI and infrastructure direction I am taking now.
 
 ## Connect
 
