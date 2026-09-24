@@ -1,6 +1,6 @@
 # Hi, I'm Ali Gökçe 👋
 
-Full-stack developer in Bremen, Germany. I build web applications and the infrastructure that keeps them running. I have been admitted to Informatics at the University of Bremen for Winter 2026/27, and I am looking for software engineering internships and Werkstudent opportunities.
+Full-stack developer in Bremen, Germany. I build web applications and the infrastructure that keeps them running. I have been admitted to Informatics at the University of Bremen for Winter 2026/27 and am focusing on practical software, infrastructure, and applied AI projects.
 
 I started making websites for gaming communities in 2016. WordPress work led me to PHP, while building FiveM, Unturned and Arma 3 communities taught me about Linux servers, databases, networking, support and automation. I later provided hosting and technical support, built client websites as a freelancer, and developed game server scripts and Discord integrations. My interest in how systems work also led to FiveM anti-cheat projects and defensive security. Since 2025, I have been exploring Python, LLMs and practical AI applications.
 
