@@ -17,7 +17,7 @@ From 2021 to October 2025, I ran [Ecubulk](https://www.linkedin.com/company/1092
 
 | Project | What it shows |
 | --- | --- |
-| [InfraLens](https://github.com/TheOrient/infralens) | An AI-assisted, reproducible browser-side ML demo for synthetic server telemetry, with a model card and tests |
+| [InfraLens](https://github.com/TheOrient/infralens) · [live demo](https://huggingface.co/spaces/aligokce/infralens) | An AI-assisted, reproducible browser-side ML demo for synthetic server telemetry, with a model card and tests |
 | [HostPulse](https://github.com/TheOrient/hostpulse) | A small Python HTTP health checker for hosted sites, with configurable checks, CLI exit codes and local-server tests |
 | [Laravel real estate CMS](https://github.com/TheOrient/laravel-real-estate-cms) | A multilingual listing site and administration system built with Laravel |
 | [Business website](https://github.com/TheOrient/business-website) | A PHP/MySQL client website with a product catalog and technical SEO |
