@@ -28,4 +28,4 @@ Some repositories document work from my early learning years. InfraLens and Host
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/ali-g%C3%B6gce-290a63223/) · [Hugging Face](https://huggingface.co/aligokce) · [Website](https://muhammedaligogce.com.tr) · [Email](mailto:mgogce1907@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ali-g%C3%B6gce-290a63223/) · [Hugging Face](https://huggingface.co/aligokce) · [Email](mailto:mgogce1907@gmail.com)
