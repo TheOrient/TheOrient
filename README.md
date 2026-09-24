@@ -1,16 +1,16 @@
 # Hi, I'm Ali Gökçe 👋
 
-Full-stack developer in Bremen, Germany. I build web applications and the infrastructure that keeps them running. I have been admitted to Informatics at the University of Bremen for Winter 2026/27 and am focusing on practical software, infrastructure, and applied AI projects.
+I'm a software developer based in Bremen, Germany. I moved here in August 2026 to focus on Informatics studies at the University of Bremen and to keep building practical software, infrastructure, and applied AI projects. I'm not currently employed or running a business.
 
-I started making websites for gaming communities in 2016. WordPress work led me to PHP, while building FiveM, Unturned and Arma 3 communities taught me about Linux servers, databases, networking, support and automation. I later provided hosting and technical support, built client websites as a freelancer, and developed game server scripts and Discord integrations. My interest in how systems work also led to FiveM anti-cheat projects and defensive security. Since 2025, I have been exploring Python, LLMs and practical AI applications.
+I started making websites for gaming communities in 2016. WordPress led me to PHP, while FiveM, Unturned and Arma 3 communities taught me about Linux servers, databases, networking, support and automation. I later worked in hosting technical support, built client websites as a freelancer, and developed game-server scripts and Discord integrations. My interest in how systems work also led to FiveM anti-cheat projects and defensive security. Since 2025, I've been exploring Python, LLMs and practical AI applications.
 
-From 2021 to October 2025, I ran [Ecubulk](https://www.linkedin.com/company/109263958/), applying the same curiosity to automotive software, VAG coding, retrofits and ECU/TCU tuning. It was a separate venture alongside my software development work.
+From 2021 to October 2025, I built client websites and provided hosting through Gökçe Host. During the same period, I ran [Ecubulk](https://www.linkedin.com/company/109263958/), applying that curiosity to automotive software, VAG coding, retrofits and ECU/TCU tuning. Both activities ended in October 2025.
 
 ## What I work with
 
 - **Web and backend:** PHP, Laravel, JavaScript, Node.js, HTML, CSS, REST APIs
 - **Data and infrastructure:** SQL, Linux, hosting, server administration, networking
-- **Other experience:** Python, Lua, C#, game server tooling, vehicle coding
+- **Other experience:** Python, Lua, C#, game-server tooling, vehicle coding
 - **Current learning:** applied AI/LLMs, automation and defensive security
 
 ## Selected projects
