@@ -1,10 +1,14 @@
 # Hi, I'm Ali Gökçe 👋
 
-I'm a software developer based in Bremen, Germany. I moved here in August 2026 to focus on Informatics studies at the University of Bremen and to keep building practical software, infrastructure, and applied AI projects. I'm not currently employed or running a business.
+I have always been curious about how things work. As a child, I was more interested in taking apart a remote-control car to understand how it worked than simply playing with it. That mindset still shapes how I learn today.
 
-I started making websites for gaming communities in 2016. WordPress led me to PHP, while FiveM, Unturned and Arma 3 communities taught me about Linux servers, databases, networking, support and automation. I later worked in hosting technical support, built client websites as a freelancer, and developed game-server scripts and Discord integrations. My interest in how systems work also led to FiveM anti-cheat projects and defensive security. Since 2025, I've been exploring Python, LLMs and practical AI applications.
+Different games and game servers sparked my deeper interest in technology. Wanting to build better systems for the communities I played in, I began working on game servers, scripts, websites, databases and small tools. Along the way, I gained practical experience with Linux, networking, PHP, JavaScript, Node.js, Lua, C#, SQL and server administration.
 
-From 2021 to October 2025, I built client websites and provided hosting through Gökçe Host. During the same period, I ran [Ecubulk](https://www.linkedin.com/company/109263958/), applying that curiosity to automotive software, VAG coding, retrofits and ECU/TCU tuning. Both activities ended in October 2025.
+During high school, summer apprenticeships at a technology company played an important role in developing both my hardware and software skills. I worked hands-on with computer technical service, network systems, security cameras and basic infrastructure.
+
+I later gained technical-support experience at a hosting company, working with web hosting, server administration, customer issues and infrastructure operations. After that, I worked independently on websites, hosting, server infrastructure and automation projects.
+
+Today, I am continuing my Informatics education while developing practical skills in web development, backend systems, automation, applied AI and defensive security. I enjoy learning by building real projects, improving imperfect systems and understanding the details behind the tools I use.
 
 ## What I work with
 
